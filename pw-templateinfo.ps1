@@ -8,7 +8,6 @@ $templateInfo = New-Object -TypeName psobject -Property @{
 
     SourceUri = 'https://github.com/h5bp/html5-boilerplate.git'
     SourceBranch = 'master'
-    SourceRepoName = 'html5-boilerplate'
 }
 
 # This will register the template with pecan-waffle
